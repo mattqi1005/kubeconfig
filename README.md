@@ -59,6 +59,7 @@ users:
 
 <img src='https://i.loli.net/2021/09/05/oHP1mT9dBcVj265.jpg' align='left' style=' width:800px;height:120 px'/>
 
+
 - 配置方法
 
   默认的kubeconfig路径  ~/.kube/config
