@@ -1,7 +1,7 @@
 # kubeconfig
 # **k8s的多集群切换**
 - 组网架构图
-<img src='https://i.loli.net/2021/09/05/oHP1mT9dBcVj265.jpg' align='left' style=' width:800px;height:120 px'/>
+
 
 2套集群升级，停掉1套集群（升级），使用另外1套集群做业务 蓝绿部署 不间断业务
 **master之间的切换是通过配置`kubeconfig`来实现**
